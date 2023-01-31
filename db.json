@@ -2,7 +2,9 @@
     "users": [
         {
             "id": 1,
-            "name": "lololex"
+            "name": "lololex",
+            "deck": [2,6,20,70,254]
+            
         },
                 {
             "id": 2,
